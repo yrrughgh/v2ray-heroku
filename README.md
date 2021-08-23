@@ -1,4 +1,4 @@
-# V2Ray Heroku
+# 2v
 
 **由于 Heroku 已经封禁本项目，请 Fork 本项目后，修改 README.md 中的部署链接为自己的用户名后，再进行部署。**
 
